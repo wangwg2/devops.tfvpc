@@ -4,7 +4,7 @@ A lightweight VPC module for Terraform.
 
 ## Usage
 
-```hcl
+```terraform
 module "vpc_basic" {
   source = "github.com/wangwg2/devops.tfvpc"
 
